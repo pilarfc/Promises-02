@@ -19,7 +19,7 @@ var plantilla = ' <div class="col s12 m7">' +
       '</div>' +
       '<div class="card-stacked"> ' +
         '<div class="card-content">' +
-          '<p>Nombre: __nombre__</p>' +
+          '<h2>__nombre__</h2>' +
           '<p>Fecha de descubrimiento: __descubrimiento__</p>' +
           '<p>Años Luz: __distancia__</p>' +
         '</div>' +
